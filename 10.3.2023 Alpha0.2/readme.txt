@@ -1,3 +1,6 @@
+IMPORTANT: you may neet to reset the Story in the settings first for the story to load.
+
+
 Build: 10.03.2023
 
 Version: Alpha 0.2
