@@ -1,4 +1,4 @@
-IMPORTANT: you may neet to reset the Story in the settings first for the story to load.
+IMPORTANT: you may need to reset the Story in the settings first for the story to load.
 
 
 Build: 10.03.2023
