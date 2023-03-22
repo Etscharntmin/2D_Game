@@ -1,4 +1,6 @@
 # 2D_Game
+Note: Every version of this game will now be on itch.io:
+https://etscharntmin.itch.io/crystal-quest
 All the Builds for my 2d Game
 
 Note that all the build are x64
